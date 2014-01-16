@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsMediaLib.ClientNetManager" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.FileSinkDataUnit" Collapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.RA3Union" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.TimeCodeExtensionData" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WMReaderClientInfo" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WMReaderStatistics" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.MutexType" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.BandwidthSharingType" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WM_SampleExtensionGUID" Collapsed="true">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WMUtils" Collapsed="true">
+    <Position X="26" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.COMBase" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.NSResults" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WMError" Collapsed="true">
+    <Position X="27.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.Constants" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WmShort" Collapsed="true">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.WmInt" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WindowsMediaLib.FourCC" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="WindowsMediaLib.BufferSegment" Collapsed="true">
+    <Position X="19" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WMAddressAccessEntry" Collapsed="true">
+    <Position X="24.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WMClientProperties" Collapsed="true">
+    <Position X="26" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WMPortNumberRange" Collapsed="true">
+    <Position X="27.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WMStreamPrioritizationRecord" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WMWriterStatisticsEx" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.WriterStatistics" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.LicenseStateData" Collapsed="true">
+    <Position X="22.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="WindowsMediaLib.DRMLicenseStateData" Collapsed="true">
+    <Position X="20.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Interface Name="WindowsMediaLib.IConfigAsfWriter" Collapsed="true">
+    <Position X="19" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.INSSBuffer" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMAddressAccess" Collapsed="true">
+    <Position X="11.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMAddressAccess2" Collapsed="true">
+    <Position X="11.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMBackupRestoreProps" Collapsed="true">
+    <Position X="22.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStreamList" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMBandwidthSharing" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMClientConnections" Collapsed="true">
+    <Position X="8.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMClientConnections2" Collapsed="true">
+    <Position X="8.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMCodecInfo" Collapsed="true">
+    <Position X="5.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMCodecInfo2" Collapsed="true">
+    <Position X="5.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMCodecInfo3" Collapsed="true">
+    <Position X="5.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMCredentialCallback" Collapsed="true">
+    <Position X="24.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMDRMEditor" Collapsed="true">
+    <Position X="26" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMHeaderInfo" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMHeaderInfo2" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMHeaderInfo3" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMIndexer" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMIndexer2" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMMediaProps" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMInputMediaProps" Collapsed="true">
+    <Position X="6.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMIStreamProps" Collapsed="true">
+    <Position X="27.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMLanguageList" Collapsed="true">
+    <Position X="19" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMLicenseBackup" Collapsed="true">
+    <Position X="20.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMLicenseRestore" Collapsed="true">
+    <Position X="22.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMMetadataEditor" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMMetadataEditor2" Collapsed="true">
+    <Position X="15.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMMutualExclusion" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMMutualExclusion2" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMOutputMediaProps" Collapsed="true">
+    <Position X="11.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMPacketSize" Collapsed="true">
+    <Position X="0.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMPacketSize2" Collapsed="true">
+    <Position X="0.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfile" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfile2" Collapsed="true">
+    <Position X="12.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfile3" Collapsed="true">
+    <Position X="12.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfileManager" Collapsed="true">
+    <Position X="14.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfileManager2" Collapsed="true">
+    <Position X="14.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMProfileManagerLanguage" Collapsed="true">
+    <Position X="26" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMPropertyVault" Collapsed="true">
+    <Position X="27.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReader" Collapsed="true">
+    <Position X="19" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAdvanced" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAdvanced2" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAdvanced3" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAdvanced4" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAllocatorEx" Collapsed="true">
+    <Position X="20.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStatusCallback" Collapsed="true">
+    <Position X="1.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderCallback" Collapsed="true">
+    <Position X="0.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderCallbackAdvanced" Collapsed="true">
+    <Position X="22.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderNetworkConfig" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderNetworkConfig2" Collapsed="true">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderStreamClock" Collapsed="true">
+    <Position X="26" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderTypeNegotiation" Collapsed="true">
+    <Position X="27.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMRegisterCallback" Collapsed="true">
+    <Position X="19" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStreamConfig" Collapsed="true">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStreamConfig2" Collapsed="true">
+    <Position X="9.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStreamConfig3" Collapsed="true">
+    <Position X="9.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMStreamPrioritization" Collapsed="true">
+    <Position X="22.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMSyncReader" Collapsed="true">
+    <Position X="11.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMSyncReader2" Collapsed="true">
+    <Position X="11.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMVideoMediaProps" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriter" Collapsed="true">
+    <Position X="24.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterAdvanced" Collapsed="true">
+    <Position X="6.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterAdvanced2" Collapsed="true">
+    <Position X="6.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterAdvanced3" Collapsed="true">
+    <Position X="6.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterSink" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterFileSink" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterFileSink2" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterFileSink3" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterNetworkSink" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterPostView" Collapsed="true">
+    <Position X="26" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterPostViewCallback" Collapsed="true">
+    <Position X="2.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterPreprocess" Collapsed="true">
+    <Position X="27.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMWriterPushSink" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.INSNetSourceCreator" Collapsed="true">
+    <Position X="20.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.INSSBuffer2" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.INSSBuffer3" Collapsed="true">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.INSSBuffer4" Collapsed="true">
+    <Position X="3.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMSInternalAdminNetSource" Collapsed="true">
+    <Position X="20.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMSInternalAdminNetSource2" Collapsed="true">
+    <Position X="8.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMSInternalAdminNetSource3" Collapsed="true">
+    <Position X="8.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMPlayerHook" Collapsed="true">
+    <Position X="24.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderAdvanced5" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="WindowsMediaLib.IWMReaderPlaylistBurn" Collapsed="true">
+    <Position X="24.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="WindowsMediaLib.LicenseStateDataFlags" Collapsed="true">
+    <Position X="26" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.LicenseStateCategory" Collapsed="true">
+    <Position X="24.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.IndexType" Collapsed="true">
+    <Position X="22.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.AEType" Collapsed="true">
+    <Position X="19" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.AttrDataType" Collapsed="true">
+    <Position X="20.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.BackupRestoreFlags" Collapsed="true">
+    <Position X="22.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.CodecInfoType" Collapsed="true">
+    <Position X="24.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.CredentialFlag" Collapsed="true">
+    <Position X="26" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.CredentialFlags" Collapsed="true">
+    <Position X="27.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.FileSinkMode" Collapsed="true">
+    <Position X="19" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.IndexerType" Collapsed="true">
+    <Position X="20.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.MetaDataAccess" Collapsed="true">
+    <Position X="27.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.MetaDataShare" Collapsed="true">
+    <Position X="19" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.NetProtocol" Collapsed="true">
+    <Position X="20.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.NetSourceURLCredPolicySettings" Collapsed="true">
+    <Position X="22.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.OffsetFormat" Collapsed="true">
+    <Position X="24.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.PlayMode" Collapsed="true">
+    <Position X="26" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.ProxySettings" Collapsed="true">
+    <Position X="27.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.Rights" Collapsed="true">
+    <Position X="19" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.SampleFlag" Collapsed="true">
+    <Position X="20.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.SampleFlagEx" Collapsed="true">
+    <Position X="22.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.Status" Collapsed="true">
+    <Position X="24.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.StorageFormat" Collapsed="true">
+    <Position X="26" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.StreamSelection" Collapsed="true">
+    <Position X="27.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.TransportType" Collapsed="true">
+    <Position X="19" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="WindowsMediaLib.WMVersion" Collapsed="true">
+    <Position X="20.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
